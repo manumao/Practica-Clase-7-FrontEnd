@@ -2,7 +2,7 @@ h1, footer{
     text-align: center;
 }
 
-h1, h2 {
+h1, h2{
     background-color: #C4C4C4;
     font-family: 'Times New Roman';
     color: #005677;
@@ -35,3 +35,7 @@ section{
     margin-left: 460px;
     margin-right: 470px;
     }
+
+footer{
+    letter-spacing: .3rem;   
+}
